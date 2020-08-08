@@ -34,7 +34,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
   fonts:
     - family: Quicksand
       fonts:
@@ -43,10 +42,10 @@ flutter:
         - asset: fonts/Quicksand-Light.ttf
         - asset: fonts/Quicksand-Medium.ttf
         - asset: fonts/Quicksand-SemiBold.ttf
-      uses-material-design: true
-      assets:
-        - graphics/app/
-  flutter_icons:
-    image_path: "graphics/launcher/ic_launcher.png"
-    android: true
-    ios: true
+  uses-material-design: true
+  assets:
+    - graphics/app/
+flutter_icons:
+  image_path: "graphics/launcher/ic_launcher.png"
+  android: true
+  ios: true
