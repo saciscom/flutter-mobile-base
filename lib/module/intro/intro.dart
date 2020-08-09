@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_mobile_base/generated/r.dart';
-import 'package:flutter_mobile_base/widget/BaseImage.dart';
-import 'package:flutter_mobile_base/widget/BaseStatelessWidget.dart';
-import 'package:flutter_mobile_base/widget/Navigate.dart';
+import 'package:flutter_mobile_base/widget/base_image.dart';
+import 'package:flutter_mobile_base/widget/base_stateless_widget.dart';
+import 'package:flutter_mobile_base/widget/navigate.dart';
 
 import '../../router.dart';
 
